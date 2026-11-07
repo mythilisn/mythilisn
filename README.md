@@ -1,18 +1,32 @@
-# Hi, I'm Mythili S N 👋
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=1800&color=60A5FA&center=true&vCenter=true&width=780&height=45&lines=Software+Developer+%7C+AI%2FML+%26+GenAI+Engineer;AI%2FML+Engineering+%C2%B7+Computer+Vision;Generative+AI+%C2%B7+LLM+Applications" alt="Software Developer | AI/ML & GenAI Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:7C3AED&height=150&section=header&animation=fadeIn" width="100%" alt="Animated gradient header banner"/>
 
-**Python · C++ · JavaScript · Backend Development · Computer Vision · LLM Applications**
+<h1 align="center">Hi, I'm Mythili S N 👋</h1>
 
-*A software developer with hands-on experience in AI/ML engineering, backend development and real-time intelligent systems, with a growing focus on Generative AI, LLM applications and reliable AI-powered software.*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=1800&color=60A5FA&center=true&vCenter=true&width=780&height=45&lines=Software+Developer+%7C+AI%2FML+%26+GenAI+Engineer;AI%2FML+Engineering+%C2%B7+Computer+Vision;Generative+AI+%C2%B7+LLM+Applications" alt="Software Developer | AI/ML & GenAI Engineer"/>
+</p>
 
-*A software developer with hands-on experience in AI/ML engineering, backend development and real-time intelligent systems, with a growing focus on Generative AI, LLM applications and reliable AI-powered software.*
+<p align="center">
+  <i>A software developer with hands-on experience in AI/ML engineering, backend development and real-time intelligent systems,<br/>with a growing focus on Generative AI, LLM applications and reliable AI-powered software.</i>
+</p>
 
-<img src="https://img.shields.io/badge/📍_Bengaluru,_India-1F2937?style=flat-square" alt="Location: Bengaluru, India"/>
-<img src="https://img.shields.io/badge/🎓_B.E._CSE_·_2027-1F2937?style=flat-square" alt="B.E. Computer Science and Engineering, 2027"/>
-<img src="https://img.shields.io/badge/CGPA_9.43%2F10-1F2937?style=flat-square" alt="CGPA 9.43 out of 10"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Bengaluru,_India-1F2937?style=flat-square" alt="Location: Bengaluru, India"/>
+  <img src="https://img.shields.io/badge/🎓_B.E._CSE_·_2027-1F2937?style=flat-square" alt="B.E. Computer Science and Engineering, 2027"/>
+  <img src="https://img.shields.io/badge/CGPA_9.43%2F10-1F2937?style=flat-square" alt="CGPA 9.43 out of 10"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mythilisn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="https://github.com/mythilisn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
+  <a href="mailto:mythilisn15@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/>
+
+</div>
 
 <a href="https://www.linkedin.com/in/mythilisn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 <a href="https://github.com/mythilisn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
