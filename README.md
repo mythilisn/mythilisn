@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- OPTIONAL BANNER: upload assets/banner.png, then uncomment
-<img src="assets/banner.png" alt="Abstract technology banner" width="100%"/>
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:7C3AED&height=150&section=header&animation=fadeIn" width="100%" alt="Animated gradient header banner"/>
 
 # Hi, I'm Mythili S N 👋
 
 <img src="https://img.shields.io/badge/Software_Developer_%7C_AI%2FML_%26_GenAI_Engineer-3B82F6?style=for-the-badge" alt="Software Developer | AI/ML & GenAI Engineer"/>
 
-**Python · C++ · JavaScript · Backend Development · Computer Vision · LLM Applications**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&height=40&lines=Python+%C2%B7+C%2B%2B+%C2%B7+JavaScript;Backend+Development+with+Django+%26+REST+APIs;Real-Time+Computer+Vision+Systems;LLM+Applications+%26+Reliable+AI+Software" alt="Typing animation: Python, C++, JavaScript, Backend Development, Computer Vision, LLM Applications"/>
 
 *A software developer with hands-on experience in AI/ML engineering, backend development and real-time intelligent systems, with a growing focus on Generative AI, LLM applications and reliable AI-powered software.*
 
@@ -22,7 +20,7 @@
 <a href="https://github.com/mythilisn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
 <a href="mailto:mythilisn15@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/>
 
 </div>
 
@@ -34,7 +32,7 @@
 - 🤖 **AI/ML and Generative AI engineering** across LLM integration, RAG, agents and output validation, using AI-assisted development with verification of generated code
 - 🔐 Research in **AI and cybersecurity**, presented at an IEEE conference
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
 
 ## 💼 Experience
 
@@ -48,7 +46,7 @@
 
 <sub>**Applied:** C++17 · OpenCV · PyTorch · YOLO · RTSP · GStreamer · PID Control</sub>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
 
 ## 🧰 Tech Stack
 
@@ -120,7 +118,7 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 </p>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
 
 ## 🎓 Education
 
@@ -128,7 +126,7 @@
 Dayananda Sagar Academy of Technology and Management, Bengaluru
 2023 – 2027 · **CGPA: 9.43/10**
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
 
 ## 🔬 Research
 
@@ -138,15 +136,11 @@ Dayananda Sagar Academy of Technology and Management, Bengaluru
 - Research paper selected and presented at the conference.
 - Research area: Artificial Intelligence and Cybersecurity.
 
-
-
 ## 🏆 Achievements
 
 **HackerRank Orchestrate 2026**
 
 - 🏅 Secured **Rank 1,142** among 35,000+ developers.
-
-
 
 ## 📜 Certifications
 
@@ -154,20 +148,16 @@ Dayananda Sagar Academy of Technology and Management, Bengaluru
 
 - Completed Python programming course.
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
-
-
-
-
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/>
 
 ## 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/mythilisn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 <a href="https://github.com/mythilisn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
 <a href="mailto:mythilisn15@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1D4ED8,100:0F172A&height=110&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
