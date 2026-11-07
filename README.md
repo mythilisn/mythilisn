@@ -1,194 +1,184 @@
+<div align="center">
+
+<!-- OPTIONAL BANNER: paste your custom banner image here (see setup notes)
+<img src="assets/banner.png" alt="Abstract technology banner" width="100%"/>
+-->
+
 # Hi, I'm Mythili S N 👋
 
-### Software Developer | AI/ML & GenAI Enthusiast
+<img src="https://img.shields.io/badge/Software_Developer_%7C_AI%2FML_%26_GenAI_Engineer-3B82F6?style=for-the-badge" alt="Software Developer | AI/ML & GenAI Engineer"/>
 
-💻 Building intelligent applications, exploring computer vision, and engineering reliable software systems.
+**Python · C++ · JavaScript · Backend Development · Computer Vision · LLM Applications**
 
-🎓 Computer Science & Engineering | CGPA: 9.43/10  
-📍 Bengaluru, India
+*A software developer with hands-on experience in AI/ML engineering, backend development and real-time intelligent systems, with a growing focus on Generative AI, LLM applications and reliable AI-powered software.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/mythilisn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mythilisn15@gmail.com)
+<br/>
 
----
+<a href="https://www.linkedin.com/in/mythilisn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="https://github.com/mythilisn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
+<a href="mailto:mythilisn15@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/>
+
+</div>
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science and Engineering student passionate about building software solutions that combine intelligent systems, backend engineering, and real-world applications.
+- 🎓 Computer Science and Engineering student at **Dayananda Sagar Academy of Technology and Management**, Bengaluru, with a **CGPA of 9.43/10** (batch of 2027)
+- 💻 Strong programming fundamentals in **Python, C++ and JavaScript**, backed by **Data Structures & Algorithms** and **Object-Oriented Programming**
+- 🛠️ Hands-on **backend development** with Django and REST APIs, and experience debugging real-time systems
+- 👁️ Completed a **Computer Vision internship at Yottec Systems**, building real-time object-tracking systems on a UAV team in the defence sector
+- 🧠 Practical AI/ML engineering: **YOLO, PyTorch, OpenCV, SAM, EfficientNet**, model training and evaluation
+- 🔐 Research interest in **AI and cybersecurity**, presented at an IEEE conference
+- 🤖 Growing focus on **Generative AI, LLMs and AI-powered applications**, including validating AI-generated outputs
+- 🎯 Passionate about software engineering and solving practical problems
 
-My experience spans computer vision, machine learning, backend development, and real-time tracking systems. I enjoy exploring how AI can solve practical problems and translating technical ideas into functional applications.
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
 
-- 🔭 Currently working as a **Computer Vision Intern at Yottec Systems**.
-- 🤖 Experienced in building computer vision applications using YOLO, PyTorch, OpenCV, and SAM.
-- ⚙️ Hands-on experience with C++17, Gremsy Payload SDK, RTSP streaming, and real-time object tracking.
-- 🌐 Experienced in backend development using Python, Django, REST APIs, and relational databases.
-- 📝 Researcher and presenter at the 5th IEEE International Conference on TEMSMET 2026.
-- 🌱 Exploring Generative AI, LLM applications, RAG, AI agents, and reliable AI engineering.
-- 🎯 Interested in software engineering, AI/ML, and building scalable intelligent applications.
+## 💼 Experience
 
----
+### Computer Vision Intern · Yottec Systems
+**UAV Team · Defence Sector · August 2026 – [END MONTH YEAR]** · ✅ *Completed*
 
-## 🛠️ Technical Skills
+- Built a real-time target-tracking system in **C++17** using **OpenCV** and the **Gremsy Payload SDK** to drive a two-axis gimbal with **PID control**.
+- Integrated custom **YOLOv11** networks into live **RTSP/GStreamer** video feeds and worked on optimizing streaming throughput.
+- Trained a **YOLO26s** person detector on a custom aerial dataset using **PyTorch, Ultralytics and Google Colab**.
+- Collaborated with hardware and cross-functional teams to translate technical requirements into operational software.
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
+
+## 🧰 Tech Stack
 
 ### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js&theme=dark" alt="Python, C++, C, JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js)](https://skillicons.dev)
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=django,html,css&theme=dark" alt="Django, HTML, CSS"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/REST_APIs-3B82F6?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/HTTP-8B5CF6?style=for-the-badge" alt="HTTP"/>
+  <img src="https://img.shields.io/badge/JSON%2FXML-3B82F6?style=for-the-badge" alt="JSON and XML"/>
+</p>
 
-### Web Development & Backend
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/DBMS-8B5CF6?style=for-the-badge" alt="DBMS fundamentals"/>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=django,html,css,mysql)](https://skillicons.dev)
-
-**Additional:** REST APIs, HTTP, JSON/XML parsing, Streamlit, SQLite.
-
-### AI / Machine Learning
-
-`PyTorch` `YOLO` `SAM` `EfficientNet` `OpenCV` `ONNX` `NumPy` `Pandas` `Machine Learning`
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,pandas&theme=dark" alt="PyTorch, OpenCV, NumPy, Pandas"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/Segment_Anything_(SAM)-3B82F6?style=for-the-badge" alt="Segment Anything Model"/>
+  <img src="https://img.shields.io/badge/EfficientNet-8B5CF6?style=for-the-badge" alt="EfficientNet"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-3B82F6?style=for-the-badge" alt="Machine Learning"/>
+</p>
 
 ### Computer Vision & Real-Time Systems
+<p>
+  <img src="https://img.shields.io/badge/Gremsy_Payload_SDK-3B82F6?style=for-the-badge" alt="Gremsy Payload SDK"/>
+  <img src="https://img.shields.io/badge/MAVLink-8B5CF6?style=for-the-badge" alt="MAVLink"/>
+  <img src="https://img.shields.io/badge/RTSP_Streaming-3B82F6?style=for-the-badge" alt="RTSP Streaming"/>
+  <img src="https://img.shields.io/badge/GStreamer-8B5CF6?style=for-the-badge" alt="GStreamer"/>
+  <img src="https://img.shields.io/badge/PID_Control-3B82F6?style=for-the-badge" alt="PID Control"/>
+  <img src="https://img.shields.io/badge/Object_Tracking-8B5CF6?style=for-the-badge" alt="Object Tracking"/>
+</p>
 
-`Gremsy Payload SDK` `MAVLink` `RTSP Streaming` `GStreamer` `PID Control` `Object Tracking`
+### Tools & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,cmake&theme=dark" alt="Git, GitHub, VS Code, Linux, Ubuntu, CMake"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+</p>
 
 ### Core Computer Science
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-3B82F6?style=for-the-badge" alt="Data Structures and Algorithms"/>
+  <img src="https://img.shields.io/badge/OOP-8B5CF6?style=for-the-badge" alt="Object-Oriented Programming"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-3B82F6?style=for-the-badge" alt="Operating Systems"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-8B5CF6?style=for-the-badge" alt="Computer Networks"/>
+</p>
 
-`Data Structures & Algorithms` `Object-Oriented Programming` `DBMS` `Operating Systems` `Computer Networks`
+### 🌱 Currently Learning · Generative AI Engineering
+<p>
+  <img src="https://img.shields.io/badge/LLM_API_Integration-1F2937?style=for-the-badge" alt="LLM API integration"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-1F2937?style=for-the-badge" alt="Prompt engineering"/>
+  <img src="https://img.shields.io/badge/Embeddings_%26_Vector_Search-1F2937?style=for-the-badge" alt="Embeddings and vector search"/>
+  <img src="https://img.shields.io/badge/RAG-1F2937?style=for-the-badge" alt="Retrieval-Augmented Generation"/>
+  <img src="https://img.shields.io/badge/AI_Agents_%26_Tool_Calling-1F2937?style=for-the-badge" alt="AI agents and tool calling"/>
+  <img src="https://img.shields.io/badge/MCP-1F2937?style=for-the-badge" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge" alt="LangGraph workflow orchestration"/>
+  <img src="https://img.shields.io/badge/Output_Validation_%26_Guardrails-1F2937?style=for-the-badge" alt="Output validation and guardrails"/>
+</p>
 
-### Developer Tools
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,cmake)](https://skillicons.dev)
+## 🎓 Education
 
-**Additional:** Google Colab, Ubuntu, MySQL.
+**B.E. – Computer Science and Engineering**
+Dayananda Sagar Academy of Technology and Management, Bengaluru
+2023 – 2027 · **CGPA: 9.43/10**
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
 
-## 💼 Professional Experience
+## 🔬 Research
 
-### Computer Vision Intern | Yottec Systems
-**UAV Team | Defence Sector | August 2026 – Present**
+**AI-Powered Cybersecurity Threat Analysis Agent**
+*5th IEEE International Conference on TEMSMET 2026*
 
-- Developed a real-time target-tracking system using C++17, OpenCV, and Gremsy Payload SDK to control a two-axis gimbal using PID control.
-- Integrated custom YOLOv11 networks into live RTSP/GStreamer video feeds and optimized streaming throughput by debugging connectivity bottlenecks.
-- Trained a YOLO26s person detector on a custom aerial dataset using PyTorch, Ultralytics, and Google Colab.
-- Collaborated with hardware and cross-functional teams to translate technical requirements into operational software solutions.
-
-**Technologies:** C++17, OpenCV, Gremsy Payload SDK, YOLO, PyTorch, RTSP, GStreamer, PID Control.
-
----
-
-## 🚀 Featured Projects
-
-### 1. AI-Based Wound Progression Tracker
-**AI-Powered Healthcare Analytics System**
-
-A computer vision-based application designed to analyze wound images, track segmentation results, and monitor healing progression through a visual dashboard.
-
-**Key Contributions:**
-- Developed a Python-based computer vision pipeline for wound segmentation and progression tracking.
-- Integrated deep learning models for feature extraction and trend analysis.
-- Built a dashboard for visual monitoring.
-- Benchmarked and debugged model inference speed and system throughput.
-
-**Tech Stack:** Python · PyTorch · SAM · EfficientNet · OpenCV · Streamlit
-
-🔗 [View Repository](YOUR_WOUND_TRACKER_REPOSITORY_URL)
-
----
-
-### 2. connectR – AI-Integrated Community Notes Platform
-
-A Django-based community platform that enables students to upload, request, explore, and share academic notes.
-
-**Key Contributions:**
-- Developed a web application using Django and Python as part of a four-member Agile team.
-- Implemented REST APIs for notes uploading, requesting, and exploration.
-- Integrated AI-powered summarization, hashtag generation, and quiz creation from uploaded notes.
-- Designed relational MySQL models and implemented authentication and session management.
-
-**Tech Stack:** Python · Django · JavaScript · HTML · CSS · MySQL · REST APIs
-
-🔗 [View Repository](YOUR_CONNECTR_REPOSITORY_URL)
-
----
-
-### 3. WorkWise AI – Enterprise Knowledge Assistant
-**Currently Planned**
-
-An AI-powered knowledge assistant designed to answer questions using trusted enterprise documents.
-
-**Planned Features:**
-- Retrieval-Augmented Generation (RAG).
-- Document ingestion and semantic search.
-- Context-grounded LLM responses.
-- Source citations and uncertainty detection.
-- Structured output validation and human escalation.
-
-**Planned Tech Stack:** Python · FastAPI · React · TypeScript · LLMs · Embeddings · Vector Search · PostgreSQL.
-
----
-
-## 📚 Research & Publications
-
-### AI-Powered Cybersecurity Threat Analysis Agent
-
-**5th IEEE International Conference on Technology, Engineering, Management for Societal Impact (TEMSMET 2026)**
-
-- Research paper selected and presented at the international conference.
+- Research paper selected and presented at the conference.
 - Research area: Artificial Intelligence and Cybersecurity.
 
-📄 [View Research Paper / IEEE Xplore](YOUR_IEEE_PAPER_URL)
+📄 [Research Paper – PASTE_PAPER_URL_HERE](PASTE_PAPER_URL_HERE) · 🏅 [Presentation Certificate – PASTE_CERTIFICATE_URL_HERE](PASTE_CERTIFICATE_URL_HERE)
 
-*Presentation certificate: [View Certificate](YOUR_IEEE_CERTIFICATE_URL)*
+## 🏆 Achievements
 
----
+**HackerRank Orchestrate 2026**
 
-## 🏆 Achievements & Recognition
+- Secured **Rank 1,142** among 35,000+ developers.
 
-- 🥇 **HackerRank Orchestrate 2026:** Secured Rank **1,142 among 35,000+ developers** in the engineering challenge.
-  - [View Ranking / Certificate](YOUR_HACKERRANK_CERTIFICATE_URL)
-- 📄 **IEEE TEMSMET 2026:** Selected and presented the research paper *AI-Powered Cybersecurity Threat Analysis Agent* at the 5th International Conference on TEMSMET.
-
----
+🏅 [Ranking Certificate – PASTE_CERTIFICATE_URL_HERE](PASTE_CERTIFICATE_URL_HERE)
 
 ## 📜 Certifications
 
-- 🐍 **The Complete Python Bootcamp: From Zero to Hero in Python** – Udemy.
-  - [View Certificate](YOUR_UDEMY_CERTIFICATE_URL)
+**The Complete Python Bootcamp: From Zero to Hero in Python** · Udemy
 
----
+- Completed Python programming course.
 
-## 🌱 Currently Exploring
+🔗 [Verify Certificate – PASTE_VERIFICATION_URL_HERE](PASTE_VERIFICATION_URL_HERE)
 
-- Generative AI and Large Language Models (LLMs).
-- Retrieval-Augmented Generation (RAG).
-- Embeddings and Vector Databases.
-- AI Agents and Tool Calling.
-- LangGraph and AI Workflow Orchestration.
-- Reliable AI Application Engineering.
-- Advanced Data Structures and Algorithms.
-
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mythilisn&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mythilisn&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Most used languages"/>
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mythilisn&show_icons=true&theme=tokyonight&hide_border=true" alt="Mythili's GitHub contribution statistics" width="400"/>
+</td>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mythilisn&layout=compact&theme=tokyonight&hide_border=true" alt="Mythili's top programming languages" width="300"/>
+</td>
+</tr>
+</table>
+</div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/>
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, exploring innovative technologies, and collaborating on meaningful software and AI projects.
+<a href="https://www.linkedin.com/in/mythilisn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="https://github.com/mythilisn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
+<a href="mailto:mythilisn15@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
 
-📧 **Email:** mythilisn15@gmail.com
-
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-
-💻 **GitHub:** [github.com/mythilisn](https://github.com/mythilisn)
-
----
-
-<p align="center">
-  <i>"Building with curiosity. Engineering with purpose. Learning every day."</i>
-</p>
+</div>
