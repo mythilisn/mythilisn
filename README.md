@@ -1,12 +1,10 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:7C3AED&height=150&section=header&animation=fadeIn" width="100%" alt="Animated gradient header banner"/>
-
 # Hi, I'm Mythili S N 👋
 
-<img src="https://img.shields.io/badge/Software_Developer_%7C_AI%2FML_%26_GenAI_Engineer-3B82F6?style=for-the-badge" alt="Software Developer | AI/ML & GenAI Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=1800&color=60A5FA&center=true&vCenter=true&width=780&height=45&lines=Software+Developer+%7C+AI%2FML+%26+GenAI+Engineer;AI%2FML+Engineering+%C2%B7+Computer+Vision;Generative+AI+%C2%B7+LLM+Applications" alt="Software Developer | AI/ML & GenAI Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&height=40&lines=Python+%C2%B7+C%2B%2B+%C2%B7+JavaScript;Backend+Development+with+Django+%26+REST+APIs;Real-Time+Computer+Vision+Systems;LLM+Applications+%26+Reliable+AI+Software" alt="Typing animation: Python, C++, JavaScript, Backend Development, Computer Vision, LLM Applications"/>
+**Python · C++ · JavaScript · Backend Development · Computer Vision · LLM Applications**
+
+*A software developer with hands-on experience in AI/ML engineering, backend development and real-time intelligent systems, with a growing focus on Generative AI, LLM applications and reliable AI-powered software.*
 
 *A software developer with hands-on experience in AI/ML engineering, backend development and real-time intelligent systems, with a growing focus on Generative AI, LLM applications and reliable AI-powered software.*
 
