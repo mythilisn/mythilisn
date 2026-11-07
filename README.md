@@ -19,11 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mythilisn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
-  <a href="https://github.com/mythilisn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
-  <a href="mailto:mythilisn15@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/></a>
-</p>
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/>
 
 </div>
