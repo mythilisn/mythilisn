@@ -138,15 +138,15 @@ Dayananda Sagar Academy of Technology and Management, Bengaluru
 - Research paper selected and presented at the conference.
 - Research area: Artificial Intelligence and Cybersecurity.
 
-📄 [Research Paper](PASTE_PAPER_URL_HERE) · 🏅 [Presentation Certificate](PASTE_CERTIFICATE_URL_HERE)
+
 
 ## 🏆 Achievements
 
 **HackerRank Orchestrate 2026**
 
-- Secured **Rank 1,142** among 35,000+ developers.
+- 🏅 Secured **Rank 1,142** among 35,000+ developers.
 
-🏅 [Ranking Certificate](PASTE_CERTIFICATE_URL_HERE)
+
 
 ## 📜 Certifications
 
@@ -154,24 +154,11 @@ Dayananda Sagar Academy of Technology and Management, Bengaluru
 
 - Completed Python programming course.
 
-🔗 [Verify Certificate](PASTE_VERIFICATION_URL_HERE)
-
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3B82F6,100:8B5CF6" width="100%" alt="Section divider"/></div>
 
-## 📊 GitHub Statistics
 
-<div align="center">
-<table>
-<tr>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mythilisn&show_icons=true&theme=tokyonight&hide_border=true" alt="Mythili's GitHub contribution statistics" width="400"/>
-</td>
-<td align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mythilisn&layout=compact&theme=tokyonight&hide_border=true" alt="Mythili's top programming languages" width="300"/>
-</td>
-</tr>
-</table>
-</div>
+
+
 
 <div align="center">
 
